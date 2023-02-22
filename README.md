@@ -1,4 +1,7 @@
-<br>
+<div id="header" align="center">
+  <br>
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200"/>
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -23,10 +26,6 @@
   <img align="center" alt="Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
 </div>
 
-<div id="header" align="center">
-  <br>
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200"/>
-</div>
 
 ### :fire: My Stats :
 
