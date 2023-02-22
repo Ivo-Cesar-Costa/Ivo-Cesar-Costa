@@ -24,6 +24,7 @@
 </div>
 
 <div id="header" align="center">
+  <br>
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200"/>
 </div>
 
@@ -35,15 +36,9 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivo-Cesar-Costa&theme=chartreuse-dark&hide_border=false&&layout=compact&title_color=blue" hspace=30/>
   </a>
 </div>
-
 <br>
-
-<div align="center">
-  <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=Ivo-Cesar-Costa&theme=dark&background=000000" vspace=3000/>
-</div>
-
 <br>
-
+<br>
 <div align="center">
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
