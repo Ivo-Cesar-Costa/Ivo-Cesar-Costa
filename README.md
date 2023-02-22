@@ -26,13 +26,12 @@
 </div>
 <div align="center">
   <a href="https://github.com/Ivo-Cesar-Costa">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ivo-Cesar-Costa&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivo-Cesar-Costa&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ivo-Cesar-Costa&count_private=true&include_all_commits=true&show_icons=True&theme=dracula&hide_border=False&show_owner=true" hspace=30 />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivo-Cesar-Costa&theme=dracula&hide_border=false&&layout=compact" hspace=30/>
   </a>
 </div>
 
 <br>
-
 <div align="center">
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
