@@ -11,6 +11,8 @@
   <img align="center" alt="Rstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
   <img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
   <img align="center" alt="TensorFlow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+  <br>
+  <br>
   <img align="center" alt="Anaconda" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
   <img align="center" alt="Fedora" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" />
   <img align="center" alt="OpenCV" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" />
