@@ -37,6 +37,13 @@
 <br>
 <br>
 <br>
+
+<div id="header" align="center">
+   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
+</div>
+<br>
+<br>
+<br>
 <div align="center">
   <p>Credits: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> and <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
