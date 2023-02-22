@@ -47,4 +47,4 @@
 <div align="center">
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Ivo-Cesar-Costa/Ivo-Cesar-Costa/blob/output/github-contribution-grid-snake.svg)
