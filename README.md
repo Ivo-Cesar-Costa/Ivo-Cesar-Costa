@@ -31,7 +31,7 @@
 
 <div align="center">
   <a href="https://github.com/Ivo-Cesar-Costa">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ivo-Cesar-Costa&count_private=true&include_all_commits=true&show_icons=True&theme=chartreuse-dark&hide_border=False&show_owner=true&title_color=blue" hspace=30 />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ivo-Cesar-Costa&count_private=true&include_all_commits=true&show_icons=True&theme=chartreuse-dark&hide_border=False&show_owner=true&title_color=blue" hspace=30/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivo-Cesar-Costa&theme=chartreuse-dark&hide_border=false&&layout=compact&title_color=blue" hspace=30/>
   </a>
 </div>
@@ -39,7 +39,7 @@
 <br>
 
 <div align="center">
-  <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=Ivo-Cesar-Costa&theme=dark&background=000000"/>
+  <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=Ivo-Cesar-Costa&theme=dark&background=000000" vspace=3000/>
 </div>
 
 <br>
