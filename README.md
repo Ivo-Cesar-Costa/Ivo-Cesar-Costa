@@ -48,3 +48,6 @@
 <div align="center">
   <p>Credits: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> and <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
+
+
+![snake gif](https://github.com/Ivo-Cesar-Costa/Ivo-Cesar-Costa/blob/output/github-contribution-grid-snake.gif)
